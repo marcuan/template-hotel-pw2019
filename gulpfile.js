@@ -59,4 +59,4 @@ gulp.watch('dist/*.html').on('change', browserSync.reload);
 
 // Start server on default task
 
-gulp.task('default',['js','serve']);
+gulp.task('default',['sass', 'js','serve']);
