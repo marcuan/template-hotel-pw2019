@@ -30,5 +30,5 @@ gulp
 - [ ] Eliminar la sección de "Conference Centre"
 - [ ] Eliminar el bloque de "instagram"
 - [ ] Corregir los horarios del footer
-- [ ] Cooregir las demás páginas que no cargan
+- [ ] Corregir las demás páginas que no cargan
 - [ ] Minificar y concatenar los archivos CSS
